@@ -13,3 +13,17 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
+includes_dir: _image
+
+collections:
+  images:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "images"
+    values:
+      images: true
+      
