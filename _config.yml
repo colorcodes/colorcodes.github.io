@@ -3,7 +3,7 @@ email: koukun0120@gmail.com
 description: >-
   color codes
 baseurl: ""
-url: "colorcodes.github.io"
+url: "color-code-images.github.io"
 twitter_username: yamadashy
 github_username:  yamadashy
 
@@ -11,7 +11,6 @@ includes_dir: _images
 
 collections:
   images:
-    collections_dir: _images/colorcodes/16
     output: true
     permalink: /16/:name
 
