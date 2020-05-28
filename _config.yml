@@ -12,7 +12,7 @@ includes_dir: _images
 collections:
   images:
     output: true
-    permalink: /16/:name
+    permalink: /
 
 exclude:
   - README.md
